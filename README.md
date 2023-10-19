@@ -47,7 +47,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 https://github.com/ba-00001/and1p5ownadventureapi/blob/main/AND101.PROJECT5.gif
 
 GIF created with **your chosen GIF tool**
-
+- [ScreenToGif](https://www.screentogif.com/) for Windows
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
