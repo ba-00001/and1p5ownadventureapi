@@ -43,7 +43,8 @@ My chosen API for this project is:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src=' https://github.com/ba-00001/and1p5ownadventureapi/blob/main/AND101.PROJECT5.gif ' />
+<img src='https://github.com/ba-00001/and1p5ownadventureapi/blob/main/AND101.PROJECT5.gif' />
+https://github.com/ba-00001/and1p5ownadventureapi/blob/main/AND101.PROJECT5.gif
 
 GIF created with **your chosen GIF tool**
 
