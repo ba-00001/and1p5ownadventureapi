@@ -1,4 +1,3 @@
-# and1p5ownadventureapi
 
 # AND101 Project 5 - Choose Your Own API
 
